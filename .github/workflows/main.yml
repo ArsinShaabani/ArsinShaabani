@@ -32,8 +32,8 @@ jobs:
       # download statistic svg files, save to dist folder
       - name: download statistics
         run: |-
-          sudo curl -s -o dist/github-stats.svg https://github-readme-stats.vercel.app/api\?username\=mashb1t\&count_private\=true\&show_icons\=true\&theme\=aura
-          sudo curl -s -o dist/github-languages.svg https://github-readme-stats.vercel.app/api/top-langs/\?username\=mashb1t\&layout\=compact\&theme\=aura\&langs_count\=10
+          sudo curl -s -o dist/github-stats.svg https://github-readme-stats.vercel.app/api\?username\=ArsinShaabani\&count_private\=true\&show_icons\=true\&theme\=aura
+          sudo curl -s -o dist/github-languages.svg https://github-readme-stats.vercel.app/api/top-langs/\?username\=ArsinShaabani\&layout\=compact\&theme\=aura\&langs_count\=10
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
