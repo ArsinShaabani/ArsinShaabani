@@ -12,7 +12,7 @@
 <h2 align="left" font-weight="bold">About me</h2>
 
 <ul>
-  <li>💼 Master AI Student at <a href="mehralborz.ac.ir">mehralborz</a></li>
+  <li>💼 Master AI Student at <a href="https://www.mehralborz.ac.ir">MehrAlborz</a></li>
   <li>🔭 I’m currently working on AI/3D Wearable Devices</li>
   <li>🛠️ Cloud infrastructure & AI trailblazer</li>
   <li></li>
