@@ -1,12 +1,12 @@
 <h1 align="center">Hello there, I'm MohammadReza!</h1>
 
 <h2>Statistics</h2>
-<p align="center"><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/output/github-stats.svg" /><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/output/github-languages.svg" /></p>
+<p align="center"><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-stats.svg" /><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-languages.svg" /></p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/output/github-contribution-grid-snake-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-contribution-grid-snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-contribution-grid-snake.svg" />
 </picture>
 <br>
 <h2 align="left" font-weight="bold">About me</h2>
