@@ -5,12 +5,12 @@
 
 <h2 align="center" font-weight="bold">Statistics</h2>
 
-<p align="center"><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-stats.svg" /><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-languages.svg" /></p>
+<p align="center"><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/b71fe3efc17df8bbc146b8be5d4151a0b80fa202/output/github-stats.svg" /><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/b71fe3efc17df8bbc146b8be5d4151a0b80fa202/output/github-languages.svg" /></p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-contribution-grid-snake-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/b71fe3efc17df8bbc146b8be5d4151a0b80fa202/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/b71fe3efc17df8bbc146b8be5d4151a0b80fa202/output/github-contribution-grid-snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/b71fe3efc17df8bbc146b8be5d4151a0b80fa202/output/github-contribution-grid-snake.svg" />
 </picture>
 <br>
   
