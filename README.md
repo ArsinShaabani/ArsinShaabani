@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6117F7&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+MohammadReza!)](https://git.io/typing-svg)
 
+
+<a href="https://app.daily.dev/arsinshaabani"><img src="https://api.daily.dev/devcards/v2/oyPYtM2f9JzYjAya4o8de.png?type=wide&r=xsm" width="652" alt="Mohammad Reza's Dev Card"/></a>
+
 <h2>Statistics</h2>
 <p align="center"><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-stats.svg" /><img align="center" height="165px" src="https://raw.githubusercontent.com/ArsinShaabani/ArsinShaabani/blob/main/output/github-languages.svg" /></p>
 <p align="center">
