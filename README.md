@@ -1,7 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6117F7&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+MohammadReza!)](https://git.io/typing-svg)
 
 
-<a href="https://app.daily.dev/arsinshaabani"><img src="https://api.daily.dev/devcards/v2/oyPYtM2f9JzYjAya4o8de.png?type=wide&r=xsm" width="652" alt="Mohammad Reza's Dev Card"/></a>
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/arsinshaabani"><img src="https://api.daily.dev/devcards/v2/oyPYtM2f9JzYjAya4o8de.png?type=wide&r=xsm" width="652" alt="Mohammad Reza's Dev Card" align="right"/></a>
+<!-- markdownlint-enable MD033 -->
+
+
+<br>
+<br>
+A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, AI engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
+
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@ArsinShaabani-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+<br>
+<br>
+<br>
+<br>
 
 <h2 align="center" font-weight="bold">Statistics</h2>
 
