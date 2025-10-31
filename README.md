@@ -17,12 +17,11 @@
 <h2 align="center" font-weight="bold">About me</h2>
 
 <ul>
-  <li align="center">💼 Master AI Student at <a href="https://www.mehralborz.ac.ir">MehrAlborz</a></li>
-  <li align="center">🔭 I’m currently working on AI/3D Wearable Devices</li>
-  <li align="center">🛠️ Cloud infrastructure & AI trailblazer</li>
-  <li align="center"></li>
-  <li align="center">💬 Ask me about * PC & Laptop Repair and Any Electronics *</li>
-  <li align="center">📫 How to reach me *Whatsapp*: +989121941368</li>
+  <h3 align="center">Founder of Arsinsoft</h3>
+  <h3 align="center">🔭 I’m currently working on AI/3D Wearable Devices</h3>
+  <h3 align="center">💼 Master AI Student at <a href="https://www.mehralborz.ac.ir">MehrAlborz</a></h3>
+  <h3 align="center">💬 Ask me about * PC & Laptop Repair and Any Electronics *</h3>
+  <h3 align="center">📫 How to reach me *Whatsapp*: +989121941368</h3>
 </ul>
 
 <br>
