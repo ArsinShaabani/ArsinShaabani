@@ -18,8 +18,9 @@
 
 <ul>
   <h3 align="center">Founder of Arsinsoft</h3>
-  <h3 align="center">🔭 I’m currently working on AI/3D Wearable Devices</h3>
-  <h3 align="center">💼 Master AI Student at <a href="https://www.mehralborz.ac.ir">MehrAlborz</a></h3>
+  <h3 align="center">⚙ I’m currently working on AI/3D Wearable Devices</h3>
+  <h3 align="center">🤖 Mechatronics & Robotics Passion</h3>
+  <h3 align="center">💼 AI Master at <a href="https://www.mehralborz.ac.ir">MehrAlborz</a></h3>
   <h3 align="center">💬 Ask me about * PC & Laptop Repair and Any Electronics *</h3>
   <h3 align="center">📫 How to reach me *Whatsapp*: +989121941368</h3>
 </ul>
