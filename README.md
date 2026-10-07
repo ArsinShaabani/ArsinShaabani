@@ -49,8 +49,11 @@ candidate (new model):    87% ████████▁▁  ❌ REGRESSION: pi
 
 | | |
 |---|---|
-| 🧪 **YAML cases** | 13 built-in assertions: `contains`, `regex`, `json_valid`, `llm_judge`, `max_latency_s`, `max_cost_usd`, … |
+| 🧪 **YAML cases** | Built-in assertions: `contains`, `regex`, `json_valid`, `llm_judge`, `max_latency_s`, `max_cost_usd`, `tools_called`, `call_order`, … |
 | 🔁 **Seal → Diff** | `promptseal run --save-baseline`, change a prompt/model/provider, then `promptseal diff` — every case classified as regression / improvement / stable |
+| 🤖 **Agent-native** | Assert tool calls (`tools_called`, `call_order`, `tool_args`), multi-turn `messages:` and scripted-user `script:` cases + `promptseal.adapters` for LangChain / OpenAI Agents traces |
+| 🎲 **Reliability** | `--repeat N` flaky detection, `pytest --promptseal` plugin, `--tags / --case / --fail-fast / --concurrency N` filters |
+| 📈 **Driftwatch & Teams** | `promptseal driftwatch` local HTML trends, `extends:` suite inheritance, `promptseal audit` log, `promptseal server` UI/API, drift-alert webhooks |
 | 🚦 **CI gate** | [promptseal-action](https://github.com/ArsinShaabani/promptseal-action) posts a markdown report on the PR and fails the build on regressions |
 | 🌐 **Any provider** | Anything OpenAI-compatible — OpenAI, OpenRouter, Ollama, vLLM — plus a zero-config offline mock |
 | 🔒 **Local-first** | Runs are plain JSON in `.promptseal/` — your prompts never leave your machine |
@@ -98,6 +101,9 @@ A curated fork of [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) — 
   <br/>
   <a href="https://github.com/ArsinShaabani/M3FD-YOLO-Converter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArsinShaabani&amp;repo=M3FD-YOLO-Converter&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="M3FD-YOLO-Converter"/></a>
   <a href="https://github.com/ArsinShaabani/IMSProg"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArsinShaabani&amp;repo=IMSProg&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="IMSProg"/></a>
+  <br/>
+  <a href="https://github.com/ArsinShaabani/YadYar"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArsinShaabani&amp;repo=YadYar&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="YadYar"/></a>
+  <a href="https://github.com/ArsinShaabani/EZP2019-EZP2025_chip_data_editor"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArsinShaabani&amp;repo=EZP2019-EZP2025_chip_data_editor&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="EZP2019-EZP2025_chip_data_editor"/></a>
 </p>
 
 ---
@@ -106,8 +112,10 @@ A curated fork of [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) — 
 
 - 🏢 **Founder of ARSINSOFT** — بنیان‌گذار آرسین‌سافت
 - 🤖 **AI Master's** student at [MehrAlborz University](https://www.mehralborz.ac.ir) — working on **AI × 3D wearable devices**
-- 🦭 Author of **PromptSeal** — prompt/model regression testing, live on [PyPI](https://pypi.org/project/promptseal/)
-- 🖥 Building & porting **Qt / C++** native Windows desktop apps
+- 🦭 Author of **PromptSeal** `v0.8.0` — prompt/model regression testing, live on [PyPI](https://pypi.org/project/promptseal/) · [GitHub Action](https://github.com/ArsinShaabani/promptseal-action) · [Docs](https://arsinshaabani.github.io/promptseal/)
+- 🖥 Building & porting **Qt / C++** native Windows desktop apps — latest: **IMSProg `v1.9.1`** Windows Portable + full `fa_IR` ([releases](https://github.com/ArsinShaabani/IMSProg/releases/latest))
+- 📱 Building **YadYar** — iOS smart appointment reminder from Persian messages ([repo](https://github.com/ArsinShaabani/YadYar))
+- 🔌 Maintaining **EZP2019–EZP2025 chip-data editor** (Qt) for MinPro programmers ([repo](https://github.com/ArsinShaabani/EZP2019-EZP2025_chip_data_editor))
 - ⚙️ **Mechatronics & robotics** passion — chips, boards and soldering irons 🔧
 - 💬 Ask me about **PC & laptop repair and any electronics**
 - 🇮🇷 **Persian localization** — clean RTL, healthy UTF-8 Persian text
@@ -116,8 +124,9 @@ A curated fork of [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) — 
 
 - 🏢 **بنیان‌گذار ARSINSOFT**
 - 🤖 دانشجوی ارشد هوش مصنوعی در [دانشگاه مهرالبرز](https://www.mehralborz.ac.ir) — در حال کار روی هوش مصنوعی و دست‌پوش‌های سه‌بعدی
-- 🦭 نویسندهٔ **PromptSeal** — تست رگرسیون پرامپت و مدل‌های زبانی (منتشرشده روی PyPI)
-- 🖥 ساخت و پورت برنامه‌های دسکتاپ ویندوزی با Qt و ++C
+- 🦭 نویسندهٔ **PromptSeal** نسخهٔ `v0.8.0` — تست رگرسیون پرامپت و مدل‌های زبانی (منتشرشده روی [PyPI](https://pypi.org/project/promptseal/))
+- 🖥 ساخت و پورت برنامه‌های دسکتاپ ویندوزی با Qt و ++C — آخرین نسخه: **IMSProg نسخهٔ `v1.9.1`** پرتابل ویندوز + فارسی کامل
+- 📱 در حال ساخت **یادیار (YadYar)** — یادآور هوشمند قرارها از روی پیام‌های فارسی در iOS
 - ⚙️ عاشق مکاترونیک و رباتیک — تراشه، برد و هویه 🔧
 - 💬 مشاورهٔ تعمیرات کامپیوتر و لپ‌تاپ و هر نوع الکترونیک
 - 🇮🇷 بومی‌سازی فارسی با RTL تمیز و متن فارسی سالم و بی‌نقص
