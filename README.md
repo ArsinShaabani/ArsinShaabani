@@ -32,7 +32,8 @@
 
 ```console
 arsin@arsinsoft:~$ whoami
-Arsin Shaabani · Founder @ ARSINSOFT · Tehran, Iran 🇮🇷
+AI Product Engineer / Founder
+MohammadReza Shabani · Founder @ ARSINSOFT · Tehran, Iran 🇮🇷
 
 arsin@arsinsoft:~$ cat focus.txt
 → PromptSeal .......... regression testing for prompts, agents & models  [PyPI v0.8.0]
