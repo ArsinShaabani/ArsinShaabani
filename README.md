@@ -44,7 +44,11 @@ Building intelligent products where Artificial Intelligence, Cloud Infrastructur
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArsinShaabani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+<a href="https://app.daily.dev/arsinshaabani"><img src="https://api.daily.dev/devcards/v2/oyPYtM2f9JzYjAya4o8de.png?type=wide&r=xsm" width="652" alt="Arsin Shaabani's dev card on daily.dev"/></a>
+
+</div>
+
 
 </div>
 
